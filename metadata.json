@@ -1,0 +1,8 @@
+{
+  "name": "LoopGuard — Human-in-the-Loop AI Workflow Studio",
+  "description": "Production-grade Human-in-the-Loop (HITL) AI content generation & review workflow platform with state persistence, risk-tiered approval gates, side-by-side diffing, revision loops, compliance audit trails, and Golden Dataset closed-loop learning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
